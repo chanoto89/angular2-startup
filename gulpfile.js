@@ -1,4 +1,5 @@
 var gulp = require('gulp');
+var del = require('del');
 
 var config = {
     jsDependencies: [
@@ -13,7 +14,13 @@ gulp.task('migrate-js-dependencies', function () {
     gulp.src('node_modules/@angular/**/*').pipe(gulp.dest('Angular2Startup.Web/scripts/dependencies/@angular'));
     gulp.src('node_modules/rxjs/**/*').pipe(gulp.dest('Angular2Startup.Web/scripts/dependencies/rxjs'));
 
-    gulp.src(config.jsDependencies).pipe(gulp.dest('Angular2Startup.Web/scripts/dependencies'));
+    return gulp.src(config.jsDependencies).pipe(gulp.dest('Angular2Startup.Web/scripts/dependencies'));
 });
 
-gulp.task('default', ['migrate-js-dependencies'], function () { });
+gulp.task('migrate-typings', function () {
+    return gulp.src('typings/**/*').pipe(gulp.dest('Angular2Startup.Web/typings'));
+})
+
+gulp.task('default', ['migrate-js-dependencies', 'migrate-typings'], function () {
+    del(['typings']);
+});

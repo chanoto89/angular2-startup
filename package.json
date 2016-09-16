@@ -58,9 +58,10 @@
     "karma-htmlfile-reporter": "^0.2.2",
     "karma-jasmine": "^0.3.8",
     "protractor": "^3.3.0",
-    "rimraf": "^2.5.2", 
+    "rimraf": "^2.5.2",
 
-    "gulp": "^3.9.1"
+    "gulp": "^3.9.1", 
+    "del": "^2.2.2"
   },
   "repository": { }
 }
