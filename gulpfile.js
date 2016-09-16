@@ -1,7 +1,5 @@
 var gulp = require('gulp');
 
-var gulp = require('gulp');
-
 var config = {
     jsDependencies: [
         "node_modules/core-js/client/shim.min.js",
