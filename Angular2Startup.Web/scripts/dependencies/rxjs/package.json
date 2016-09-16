@@ -2,12 +2,13 @@
   "_args": [
     [
       "rxjs@5.0.0-beta.12",
-      "C:\\tfs\\Angular2Startup"
+      "C:\\tfs\\angular2startup"
     ]
   ],
   "_from": "rxjs@5.0.0-beta.12",
   "_id": "rxjs@5.0.0-beta.12",
   "_inCache": true,
+  "_installable": true,
   "_location": "/rxjs",
   "_nodeVersion": "5.0.0",
   "_npmOperationalInternal": {
@@ -35,7 +36,7 @@
   "_shasum": "cdfde2d8c4639d20ae7794bff8fddf32da7ad337",
   "_shrinkwrap": null,
   "_spec": "rxjs@5.0.0-beta.12",
-  "_where": "C:\\tfs\\Angular2Startup",
+  "_where": "C:\\tfs\\angular2startup",
   "author": {
     "email": "blesh@netflix.com",
     "name": "Ben Lesh"
@@ -141,7 +142,6 @@
     "npm": ">=2.0.0"
   },
   "homepage": "https://github.com/ReactiveX/RxJS",
-  "installable": true,
   "keywords": [
     "ES2015",
     "ES6",
@@ -172,6 +172,7 @@
   ],
   "name": "rxjs",
   "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com/ReactiveX/RxJS.git"

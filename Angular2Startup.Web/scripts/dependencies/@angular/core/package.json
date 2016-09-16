@@ -2,12 +2,13 @@
   "_args": [
     [
       "@angular/core@2.0.0",
-      "C:\\tfs\\Angular2Startup"
+      "C:\\tfs\\angular2startup"
     ]
   ],
   "_from": "@angular/core@2.0.0",
   "_id": "@angular/core@2.0.0",
   "_inCache": true,
+  "_installable": true,
   "_location": "/@angular/core",
   "_nodeVersion": "5.4.1",
   "_npmOperationalInternal": {
@@ -35,7 +36,7 @@
   "_shasum": "87b5ea4a7ae063d27bcf2332a4aa932d887abe2b",
   "_shrinkwrap": null,
   "_spec": "@angular/core@2.0.0",
-  "_where": "C:\\tfs\\Angular2Startup",
+  "_where": "C:\\tfs\\angular2startup",
   "author": {
     "name": "angular"
   },
@@ -51,7 +52,6 @@
     "tarball": "https://registry.npmjs.org/@angular/core/-/core-2.0.0.tgz"
   },
   "homepage": "https://github.com/angular/angular#readme",
-  "installable": true,
   "license": "MIT",
   "main": "bundles/core.umd.js",
   "maintainers": [
@@ -67,6 +67,7 @@
     "rxjs": "5.0.0-beta.12",
     "zone.js": "^0.6.21"
   },
+  "readme": "ERROR: No README data found!",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/angular/angular.git"

@@ -1,0 +1,29 @@
+*.user
+*.orig
+
+obj
+bin
+/packages
+/.vs
+
+# Mac OS files
+.DS_Store
+
+# Modules
+prototype/node_modules
+
+# Compiled Files
+prototype/lib/css
+
+.vscode
+
+**/Debug/*.msi
+**/Debug/*.exe
+**/Release/*.msi
+**/Release/*.exe
+**/node_modules/*
+Angular2Startup.Web/scripts/**/*.js
+Angular2Startup.Web/scripts/**/*.js.map
+**/*.vspscc
+
+!dependencies/**

@@ -2,12 +2,13 @@
   "_args": [
     [
       "@angular/forms@2.0.0",
-      "C:\\tfs\\Angular2Startup"
+      "C:\\tfs\\angular2startup"
     ]
   ],
   "_from": "@angular/forms@2.0.0",
   "_id": "@angular/forms@2.0.0",
   "_inCache": true,
+  "_installable": true,
   "_location": "/@angular/forms",
   "_nodeVersion": "5.4.1",
   "_npmOperationalInternal": {
@@ -35,7 +36,7 @@
   "_shasum": "4f472223f61aec49f27575ef49b0d6cac3be1e31",
   "_shrinkwrap": null,
   "_spec": "@angular/forms@2.0.0",
-  "_where": "C:\\tfs\\Angular2Startup",
+  "_where": "C:\\tfs\\angular2startup",
   "author": {
     "name": "angular"
   },
@@ -51,7 +52,6 @@
     "tarball": "https://registry.npmjs.org/@angular/forms/-/forms-2.0.0.tgz"
   },
   "homepage": "https://github.com/angular/angular#readme",
-  "installable": true,
   "license": "MIT",
   "main": "bundles/forms.umd.js",
   "maintainers": [
@@ -67,6 +67,7 @@
     "@angular/common": "^2.0.0",
     "@angular/core": "^2.0.0"
   },
+  "readme": "ERROR: No README data found!",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/angular/angular.git"

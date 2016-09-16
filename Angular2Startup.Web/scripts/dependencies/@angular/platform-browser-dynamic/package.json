@@ -2,12 +2,13 @@
   "_args": [
     [
       "@angular/platform-browser-dynamic@2.0.0",
-      "C:\\tfs\\Angular2Startup"
+      "C:\\tfs\\angular2startup"
     ]
   ],
   "_from": "@angular/platform-browser-dynamic@2.0.0",
   "_id": "@angular/platform-browser-dynamic@2.0.0",
   "_inCache": true,
+  "_installable": true,
   "_location": "/@angular/platform-browser-dynamic",
   "_nodeVersion": "5.4.1",
   "_npmOperationalInternal": {
@@ -35,7 +36,7 @@
   "_shasum": "2ee3f2bb08b4864902c5b7c283f77863c89d8715",
   "_shrinkwrap": null,
   "_spec": "@angular/platform-browser-dynamic@2.0.0",
-  "_where": "C:\\tfs\\Angular2Startup",
+  "_where": "C:\\tfs\\angular2startup",
   "author": {
     "name": "angular"
   },
@@ -51,7 +52,6 @@
     "tarball": "https://registry.npmjs.org/@angular/platform-browser-dynamic/-/platform-browser-dynamic-2.0.0.tgz"
   },
   "homepage": "https://github.com/angular/angular#readme",
-  "installable": true,
   "license": "MIT",
   "main": "bundles/platform-browser-dynamic.umd.js",
   "maintainers": [
@@ -69,6 +69,7 @@
     "@angular/core": "^2.0.0",
     "@angular/platform-browser": "^2.0.0"
   },
+  "readme": "ERROR: No README data found!",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/angular/angular.git"

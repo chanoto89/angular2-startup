@@ -2,12 +2,13 @@
   "_args": [
     [
       "@angular/upgrade@2.0.0",
-      "C:\\tfs\\Angular2Startup"
+      "C:\\tfs\\angular2startup"
     ]
   ],
   "_from": "@angular/upgrade@2.0.0",
   "_id": "@angular/upgrade@2.0.0",
   "_inCache": true,
+  "_installable": true,
   "_location": "/@angular/upgrade",
   "_nodeVersion": "5.4.1",
   "_npmOperationalInternal": {
@@ -35,7 +36,7 @@
   "_shasum": "6d2c0071e55f57ca1eff683758626d7ef6cdbee0",
   "_shrinkwrap": null,
   "_spec": "@angular/upgrade@2.0.0",
-  "_where": "C:\\tfs\\Angular2Startup",
+  "_where": "C:\\tfs\\angular2startup",
   "author": {
     "name": "angular"
   },
@@ -51,7 +52,6 @@
     "tarball": "https://registry.npmjs.org/@angular/upgrade/-/upgrade-2.0.0.tgz"
   },
   "homepage": "https://github.com/angular/angular#readme",
-  "installable": true,
   "license": "MIT",
   "main": "bundles/upgrade.umd.js",
   "maintainers": [
@@ -69,6 +69,7 @@
     "@angular/platform-browser": "^2.0.0",
     "@angular/platform-browser-dynamic": "^2.0.0"
   },
+  "readme": "ERROR: No README data found!",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/angular/angular.git"
