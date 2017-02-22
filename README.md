@@ -5,4 +5,4 @@ This is intended as a startup project. Customize to your needs.
 
 This is using ASP.NET 4.5.2 MVC Project
 
-Run the commande: npm install, followed by: gulp
+Run the command: npm install, followed by: gulp
